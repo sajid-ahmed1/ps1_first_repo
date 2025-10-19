@@ -2,8 +2,6 @@
 
 Reconstruct the simulated data frame from Lecture 2, then perform the necessary data wrangling to transform the individual-level data frame into a household-level data frame.
 
-![Household Level.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/00734747-c571-451a-a8a2-d159b4c32747/bec3039f-b09d-49b4-ae45-db5147f0b737/Household_Level.png)
-
 ## Tasks
 
 1. Recreate the initial data frame as shown in the provided screenshot. Use simulated data to generate a new data frame containing the specified information.
@@ -25,6 +23,7 @@ Reconstruct the simulated data frame from Lecture 2, then perform the necessary 
 ## Reflection Question
 
 **Question**: What are some potential use cases for generating simulated data?
+
 **Answer**: Some potential use cases:
 1. Sampling a dataset for practise or testing code
 2. Stress testing performance
